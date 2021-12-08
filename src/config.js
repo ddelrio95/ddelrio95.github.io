@@ -80,16 +80,12 @@ module.exports = {
     ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
-        source: 'https://discord.gg/NxxrMj4b', // medium | dev.to
-        username: 'Code Place',
+        source: '', // medium | dev.to
+        username: '',
         limit: 2 // How many posts to display. Max is 10.
     },
-    googleAnalytics: {
-         // Please remove this and use your own tag id or keep it empty
-    },
-    hotjar: {
-         //  Please remove this and use your own id or keep it empty
-    },
+    
+    
     themeConfig: {
         default: 'light',
 
