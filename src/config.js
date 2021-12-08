@@ -12,14 +12,14 @@ module.exports = {
     social: {
         linkedin: 'dariodelrio',
         twitter: 'ddelrio_95',
-        facebook: '',
-        dribbble: '',
-        behance: '',
-        medium: '',
-        devto: 'arifszn',
-        website: 'https://arifszn.github.io',
-        phone: '',
-        email: 'arifulalamszn@gmail.com'
+        facebook: 'ddelrio95',
+        dribbble: 'ddelrio95',
+        behance: 'dariodelrio1',
+        
+        discord: 'NxxrMj4b',
+        website: 'https://dariodelrio95.github.io',
+        phone: '8132206280',
+        email: 'dariodelrio14@gmail.com'
     },
     skills: [
         'PHP',
