@@ -30,16 +30,16 @@ module.exports = {
         'MySQL',
         'Git',
         'Docker',
-        'HTML'
+        'HTML',
         'CSS',       
         'Tailwind',
         'Bootstrap',
-        'MongoDB'
-        'Python'
-        'DJango'
-        'Java'
-        'C++'
-        'C#'
+        'MongoDB',
+        'Python',
+        'DJango',
+        'Java',
+        'C++',
+        'C#',
         
         
     ],
