@@ -3,7 +3,7 @@ module.exports = {
     github: {
         username: 'ddelrio95', // Your GitHub org/user name. (Required)
         sortBy: 'stars', // stars | updated
-        limit: 20, // How many projects to display.
+        limit: 10, // How many projects to display.
         exclude: {
             forks: false, // Forked projects will not be displayed if set to true.
             projects: [] // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -79,9 +79,9 @@ module.exports = {
     ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
-        source: '', // medium | dev.to
-        username: '',
-        limit: 2 // How many posts to display. Max is 10.
+        source: 'dev.to', // medium | dev.to
+        username: 'ddelrio95',
+        limit: 10 // How many posts to display. Max is 10.
     },
     
     
