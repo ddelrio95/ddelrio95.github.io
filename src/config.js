@@ -81,7 +81,7 @@ module.exports = {
         // Display blog posts from your medium or dev.to account. (Optional)
         source: 'dev.to', // medium | dev.to
         username: 'ddelrio95',
-        limit: 2 // How many posts to display. Max is 10.
+        limit: 4 // How many posts to display. Max is 10.
     },
     
     
