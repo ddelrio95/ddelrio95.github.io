@@ -70,6 +70,12 @@ module.exports = {
             to: 'Present'
         },
         { 
+            institution: 'Hillsborough Community College',
+            degree: 'Art/Art Studies, General',
+            from: '2014',
+            to: '2017',
+        },
+        { 
             institution: 'IPI Armando de la Rosa Ruiz-Cuba',
             degree: 'Associate in IT',
             from: '2010',
