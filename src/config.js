@@ -67,7 +67,7 @@ module.exports = {
             institution: 'Kaiser University',
             degree: 'Bachelor of Science',
             from: '2018',
-            to: 'Present'
+            to: 'Present',
         },
         { 
             institution: 'Hillsborough Community College',
