@@ -10,48 +10,41 @@ module.exports = {
         }
     },
     social: {
-        linkedin: 'dariodelrio',
-        twitter: 'ddelrio_95',
-        facebook: 'ddelrio95',
         dribbble: 'ddelrio95',
         behance: 'dariodelrio1',
         discord: 'NxxrMj4b',
-        website: 'https://dariodelrio95.github.io',
+        tableau: 'https://public.tableau.com/app/profile/dario.del.rio',
+        kaggle: 'https://www.kaggle.com/',
+        linkedin: 'dariodelrio',
+        twitter: 'ddelrio_95',
+        facebook: 'ddelrio95',
         phone: '8132206280',
         email: 'dariodelrio14@gmail.com'
     },
     skills: [
-        'PHP',
-        'JavaScript',
-        'React.js',     
-        'Node.js',
-        'Jquery',
-        'MySQL',
-        'Git',
-        'Docker',
-        'HTML',
-        'CSS',       
-        'Tailwind',
-        'Bootstrap',
-        'MongoDB',
-        'Python',
-        'DJango',
-        'Java',
-        'C++',
-        'C#',
-        
-        
+        'Coding languages',
+        'Databases',
+        'Data structures and algorithms',
+        'Source control',
+        'Testing procedures',
+        'Debugging knowledge',
+        'Operating systems',
+        'Text editing software',
+        'Cryptography',
+        'Software frameworks',
+        'Cloud platforms',
+        'Spreadsheet software',     
     ],
     experiences: [
         { 
-            company: 'Dario del Rio',
+            company: 'Upwork',
             position: 'Freelancer',
             from: '2017',
             to: 'Present'
         },
         { 
-            company: 'Live and let live pharmacy',
-            position: 'Data Analyst Manager',
+            company: 'LIVE & LET LIVE PHARMA LLC',
+            position: 'Healthcare Data Analyst',
             from: 'July 2017',
             to: 'Present'
         },
@@ -65,9 +58,9 @@ module.exports = {
     education: [
         { 
             institution: 'Kaiser University',
-            degree: 'Bachelor of Science',
+            degree: 'Bachelor of Science in Software Engineering',
             from: '2018',
-            to: 'Present',
+            to: '2022',
         },
         { 
             institution: 'Hillsborough Community College',
@@ -76,8 +69,8 @@ module.exports = {
             to: '2017',
         },
         { 
-            institution: 'IPI Armando de la Rosa Ruiz-Cuba',
-            degree: 'Associate in IT',
+            institution: 'IPI Armando de la Rosa Ruiz',
+            degree: 'High School Diploma, Information Technology',
             from: '2010',
             to: '2013',
         },
