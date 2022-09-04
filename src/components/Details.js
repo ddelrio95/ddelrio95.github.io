@@ -148,20 +148,20 @@ const Details = (props) => {
                                     )
                                 }
                                 {
-                                    typeof config.social.behance !== 'undefined' && config.social.behance && (
+                                    typeof config.social.discord !== 'undefined' && config.social.discord && (
                                         <li>
                                             <span>
                                                 <div>
-                                                    <FaBehanceSquare className="mr-2"/>
+                                                    <DiscordSquare className="mr-2"/>
                                                 </div>
                                                 <div>
                                                     <a
-                                                        href={`https://www.behance.net/${config.social.behance}`}
+                                                        href={`https://discord.com/${config.social.discord}`}
                                                         target="_blank"
                                                         rel="noreferrer"
                                                         className="text-base-content-important"
                                                     >
-                                                        {config.social.behance}
+                                                        {config.social.discord}
                                                     </a>
                                                 </div>
                                             </span>
